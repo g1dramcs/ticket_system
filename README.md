@@ -1,0 +1,1 @@
+SQL file with DB script located "/src/main/resources/db.sql"
